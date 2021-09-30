@@ -31,7 +31,6 @@ Have used celery for scheduling notifications, which made me search for better a
 #### Frontend
 <details>
 	<summary>HTML5/CSS3</summary>
-	
 	Modern HTML5 has added some pretty sweet semantic tags that people often fail to use. I'm a fan of separation of concerns, because that enables debugging a lot more cleaner and both HTML5 and CSS3 does a fantastic job of enabling that. 
 	
 	I love CSS3, with all the modern spec - Grid, Flex, and waiting for container queries. 😇 That will change the game. I am familiar with both Sass and PostCSS to enable cleaner and compatible CSS code across browsers, and versions.
@@ -39,8 +38,7 @@ Have used celery for scheduling notifications, which made me search for better a
 
 <details>
 	<summary>JS (ES6)</summary>
-	
-		> What can be done in JS, will be done in JS
+	> What can be done in JS, will be done in JS
 	
 	I read this quote from a famous frontend dev, and in all honesty, this is true. ES6, and TS is enabling the modern web, and it will only evolve better in the coming years. * I'm just starting with JS,* and I'm really excited to build things for the web, and desktop. 
 	
@@ -48,14 +46,12 @@ Have used celery for scheduling notifications, which made me search for better a
 
 <details>
 	<summary>ReactJS</summary>
-	
 	React really changed the game of frontend frameworks and thought process. React hooks, although does a lot of auto-magical stuff, enables a really scalable and quick development turn-around time. I'm currently working on react building an internal social network. 
 </details>
 
 
 <details>
 	<summary>Figma</summary>
-	
 	Figma redefined the way we design for the web, and software. I love working with it so much so that I use it for more than just plain UI design. The infinite canvas is my holy grail of thought, mind-maps, designs, and thought palace. Been using Figma for more than a year and I love how beautifully they have crafted the usability of the application. It's my go-to case study for a SaaS application
 </details>
 
@@ -63,7 +59,6 @@ Have used celery for scheduling notifications, which made me search for better a
 
 <details>
 	<summary> Postgres/MySql</summary>
-	
 	My go-to database (apart from SQLite for test purposes) is Postgres. I believe PostgreSQL DB is the epitome of relational databases with an incredible performance, so much so that there are forks of it handling modern niche usecases (EdgeDB, TigerGraph) with a totally different paradigm. 
 	
 	Although I have used MySql in the past, I rarely prefer it over Postgres. 
@@ -72,14 +67,12 @@ Have used celery for scheduling notifications, which made me search for better a
 
 <details>
 	<summary>MongoDB</summary>
-	
 	I have used MongoDB for write-intensive applications and built a CRM and a blog with that. I'd not prefer Mongo over Postgres in most cases, and especially when performance matters. Where there are equally, if not more edits on the data, I prefer Postgres. 
 	
 </details>
 
 <details>
 	<summary>Comfortable with graph/multi-model databases: ArangoDB, OngDB</summary>
-	
 	As part of a team building an NLP platform for chatbots, I have used Neo4j, and later moved onto OngDB (due to restrictions) and loved the paradigm shift from relational/non-relational DB into Graph DB. 
 	
 	And then I encountered ArangoDB and absolutely loved its AQL, and multi-modal capabilities. Built an NLP-as-a-service engine with it as a solo developer, and I loved the developer experience with it. Would definitely try again. 
@@ -91,7 +84,6 @@ Have used celery for scheduling notifications, which made me search for better a
 
 <details>
 	<summary>Tensorflow/Pytorch</summary>
-	
 	Have used both TensorFlow and Pytorch for both NLP and CV applications. Although liked the performance aspect of tensorflow, I appreciated the modern style of idiomatic code in PyTorch.
 	
 </details>
@@ -102,16 +94,14 @@ Have used celery for scheduling notifications, which made me search for better a
 	 
 	<details>
 		<summary>Spacy/NLTK/AllenNLP/Snips</summary>
-		
-	A fan of Spacy since my college days and been using it since the early days when NLTK was the only go-to solution for NLP. AllenNLP with its modern datasets and models, is a boon for developers who love hacking all-things-NLP. 
+		A fan of Spacy since my college days and been using it since the early days when NLTK was the only go-to solution for NLP. AllenNLP with its modern datasets and models, is a boon for developers who love hacking all-things-NLP. 
 	
 	</details>
 	
  - Compupter Vision
 	 <details>
 		<summary>OpenCV</summary>
-	
-	"The" computer vision library that shall prevail the end of our era - Although the developer experience isn't as optimal as in the domain of NLP (thanks, spacy!) the performance is alluring. Built a realtime multi-camera, Multi-person tracking system with plain OpenCV and achieved a really good performance. 
+		"The" computer vision library that shall prevail the end of our era - Although the developer experience isn't as optimal as in the domain of NLP (thanks, spacy!) the performance is alluring. Built a realtime multi-camera, Multi-person tracking system with plain OpenCV and achieved a really good performance. 
 	</details>
 
 
