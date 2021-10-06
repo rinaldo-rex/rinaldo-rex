@@ -32,15 +32,14 @@ Have used celery for scheduling notifications, which made me search for better a
 <details>
 	<summary>HTML5/CSS3</summary>
 	Modern HTML5 has added some pretty sweet semantic tags that people often fail to use. I'm a fan of separation of concerns, because that enables debugging a lot more cleaner and both HTML5 and CSS3 does a fantastic job of enabling that. 
-	
 	I love CSS3, with all the modern spec - Grid, Flex, and waiting for container queries. 😇 That will change the game. I am familiar with both Sass and PostCSS to enable cleaner and compatible CSS code across browsers, and versions.
 </details>
 
 <details>
-	<summary>JS (ES6)</summary>
-	> What can be done in JS, will be done in JS
+	<summary>JS</summary>
+	> "What can be done in JS, will be done in JS"
 	
-	I read this quote from a famous frontend dev, and in all honesty, this is true. ES6, and TS is enabling the modern web, and it will only evolve better in the coming years. * I'm just starting with JS,* and I'm really excited to build things for the web, and desktop. 
+I read this quote from a famous frontend dev, and in all honesty, this is true. ES6, and TS is enabling the modern web, and it will only evolve better in the coming years. * I'm just starting with JS,* and I'm really excited to build things for the web, and desktop. 
 	
 </details>
 
@@ -60,7 +59,6 @@ Have used celery for scheduling notifications, which made me search for better a
 <details>
 	<summary> Postgres/MySql</summary>
 	My go-to database (apart from SQLite for test purposes) is Postgres. I believe PostgreSQL DB is the epitome of relational databases with an incredible performance, so much so that there are forks of it handling modern niche usecases (EdgeDB, TigerGraph) with a totally different paradigm. 
-	
 	Although I have used MySql in the past, I rarely prefer it over Postgres. 
 	
 </details>
@@ -74,7 +72,6 @@ Have used celery for scheduling notifications, which made me search for better a
 <details>
 	<summary>Comfortable with graph/multi-model databases: ArangoDB, OngDB</summary>
 	As part of a team building an NLP platform for chatbots, I have used Neo4j, and later moved onto OngDB (due to restrictions) and loved the paradigm shift from relational/non-relational DB into Graph DB. 
-	
 	And then I encountered ArangoDB and absolutely loved its AQL, and multi-modal capabilities. Built an NLP-as-a-service engine with it as a solo developer, and I loved the developer experience with it. Would definitely try again. 
 </details>
 
@@ -110,8 +107,7 @@ Have used celery for scheduling notifications, which made me search for better a
 <details>
 		<summary>Docker/Ansible</summary>
 Although my experience with DevOps is limited, I liked working with Docker and how much it enabled modern micro-services architecture to build high-throughput, high-traffic web applications. 
-	
-And even with negligible experience I loved using ansible. However, today I prefer Github Actions/ GitLab CI because of developer experience for CI/CD. 
+	And even with negligible experience I loved using ansible. However, today I prefer Github Actions/ GitLab CI because of developer experience for CI/CD. 
 </details>
 
 #### Tools/technologies/platforms
