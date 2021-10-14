@@ -7,7 +7,7 @@ Hi! I'm Rinaldo.
 I develop applications for the web with a keen eye on usefulness and usability. (Fan of Psychology and Philosophy 🧘🏽)
 
 
-Armed with the following skills and experiences, I'm able to build web applications that solve niche problems through technology. *I'm currently exploring frontend landscape with React. *
+Armed with the following skills and experiences, I'm able to build web applications that solve niche problems through technology. *I'm currently exploring frontend landscape with React.*
 
 _Just in case you need my resume, you can download it from [here](https://drive.google.com/file/d/1kEHYus8Ch8eK43JVdDt57_9wHUn2e1Oo/view?usp=sharing)_
 
@@ -136,7 +136,7 @@ In addition to the above, I'm comfortable learning/adapting to modern technologi
 I'm always open to any new and *interesting* opportunities, but some or all of the following will grab my priority. 
 
 ###### Work/Life balance
-With years of experience developing some of the complex applications for multiple startups, I have gathered skills technically so much so that I can hop onto any new technology pretty quickly without much hassle. But I'm currently looking to improve myself personally and ** I take work-life balance very seriously. ** I strongly believe that who I'm personally, reflects who I am professionally. 
+With years of experience developing some of the complex applications for multiple startups, I have gathered skills technically so much so that I can hop onto any new technology pretty quickly without much hassle. But I'm currently looking to improve myself personally and **I take work-life balance very seriously.** I strongly believe that who I'm personally, reflects who I am professionally. 
 
 I go by the following principle to guide me to find the balance. 
 > He who does not take breaks seriously, cannot take work seriously.
