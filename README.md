@@ -9,7 +9,7 @@ I develop applications for the web with a keen eye on usefulness and usability. 
 
 Armed with the following skills and experiences, I'm able to build web applications that solve niche problems through technology. *I'm currently exploring frontend landscape with React.*
 
-_Just in case you need my resume, you can download it from [here](https://drive.google.com/file/d/1kEHYus8Ch8eK43JVdDt57_9wHUn2e1Oo/view?usp=sharing)_
+_Just in case you need my resume (updated as of Jan 2026), you can download it from [here](https://drive.google.com/file/d/1dPxLjmTw3-nbqr_4rCXavrNVt6f7EZIt/view?usp=sharing)_
 
 ### Technologies I use for the web:
 ###### (Click to expand them to read more)
